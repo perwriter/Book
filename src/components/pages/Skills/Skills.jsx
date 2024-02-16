@@ -18,11 +18,11 @@ const Skills = () => {
         </div>
         {/* skills section */}
         <div className="space-y-10">
-          <SkillsLevel skillName="HTML" percentage={"90%"} />
-          <SkillsLevel skillName="CSS" percentage="95%" />
-          <SkillsLevel skillName="Tailwind" percentage="80%" />
-          <SkillsLevel skillName="CSS" percentage="95%" />
-          <SkillsLevel skillName="Tailwind" percentage="80%" />
+          <SkillsLevel skillName="HTML" percentage={"100%"} />
+          <SkillsLevel skillName="CSS" percentage="100%" />
+          <SkillsLevel skillName="Javascript" percentage="80%" />
+          <SkillsLevel skillName="React" percentage="90%" />
+          <SkillsLevel skillName="Tailwind" percentage="100%" />
         </div>
       </div>
     </div>

@@ -9,21 +9,18 @@ const About = () => {
       {/* heading */}
       <Heading
         title="About"
-        subtitle="Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet."
+        subtitle="I Can Work Wonders with My Skills"
       />
 
       {/* Details section  */}
 
-      <div className="mt-10 text-slate-500">
+      <div className="mt-10 text-slate-900">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
-          quaerat ex obcaecati tenetur dolorum quasi rem! Vero consequuntur
-          perferendis architecto.
-        </p>{" "}
+        Welcome to my world of freelance expertise! With a background in virtual assistance, transcription, and web development, </p>{" "}
         <br />
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim,
-          beatae.adipisicing elit. Enim, beatae.
+        I’m a freelancer, Crafting seamless user experiences and delivering impeccable work is my forte. Whether it’s converting designs into dynamic websites, transcribing with precision, or offering top-notch virtual support, I’ve got you covered. Let’s turn your ideas into digital reality.
+        
         </p>
         {/* Social Links */}
         <div className="flex space-x-4 mt-10">
@@ -34,10 +31,10 @@ const About = () => {
         </div>
         {/* Button Links */}
         <div className="flex space-x-4 mt-4">
-          <a href="#" className="primary-btn">
+          <a href="https://perwriters.com/wp-content/uploads/2023/12/Peter-Macharia-Cv.pdf" className="primary-btn">
             Download Resume
           </a>
-          <a href="#" className="outline-btn">
+          <a href="Perwriter@gmail.com" className="outline-btn">
             Contact
           </a>
         </div>
